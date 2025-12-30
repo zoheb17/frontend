@@ -1,0 +1,28 @@
+
+
+
+body{
+    font-size: 20;
+    background: black;
+    /* border: 3px solid white; */
+}
+
+p{
+  color: white;
+}
+h1,h2{
+    color: white;
+}
+
+.zoheb{
+    color: grey;
+}
+#uddin{
+    font-style: italic;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: blueviolet;
+}
+

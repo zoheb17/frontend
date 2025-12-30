@@ -1,0 +1,28 @@
+body {
+    /* background-color: black; */
+    padding: 25%;
+    font-size: 2rem;
+    background-color: papayawhip;
+}
+
+/* input,button{
+    font: inherit;
+} */
+
+p {
+    /* text-decoration: line-through; */
+    text-transform: capitalize;
+    font-style: italic;
+    text-align: justify; 
+    font-weight: bolder;
+    color: rgb(4, 1, 1);
+}
+
+h1 {
+    text-decoration: line-through;
+    text-transform: capitalize;
+    font-style: italic;
+    text-align: justify; 
+    font-weight: bolder;
+    color: rgb(4, 0, 0);
+}

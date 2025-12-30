@@ -1,0 +1,19 @@
+body{
+    padding: 10%;
+    font-size:2rem;
+    font-family: sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:visited{
+    color: aqua;
+
+} 
+a:hover {
+    color: dodgerblue;
+}
