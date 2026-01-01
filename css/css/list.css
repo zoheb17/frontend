@@ -11,5 +11,6 @@ h1{
 }
 
 ul{
-    list-style: square;
+    list-style-type: none;
+    line-height: 1.2; 
 }

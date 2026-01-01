@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    gap: 10px;
+    align-items: flex-end;
+    height:70vh;
+    /* flex-direction: row; */
+}
+.Red{
+    background-color: red;
+    width:7em ;
+}
+.yellow
+    {
+background-color: yellow;
+    }
+   
+    .green{
+        background-color: green;
+    }
+    .blue{
+        background-color:blue;
+    }

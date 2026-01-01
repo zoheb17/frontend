@@ -1,0 +1,67 @@
+body{
+    font-size: 2rem;
+}
+
+body{
+  display: inline-block;
+}
+
+
+
+/* .cricle{
+   
+    margin: 4em;
+    width:10em;
+    height: 10em;
+    background: #000;
+    border-radius:50%;
+    position:absolute;
+   /* opacity: 5%; */
+
+    
+    
+   
+    
+/* } */
+/* .criclee{
+    
+    margin: 4em;
+    width:7em;
+    height: 7em;
+    background: #13cdb1;
+    border-radius:50%;
+    position: relative;
+    top: 1.5em;
+    left: 1.5em;
+    /* z-index: -1; */
+    
+
+
+/* } */ 
+
+.s{
+    display: inline-block;
+    width:7em;
+    height:7em;
+    background-color: antiquewhite;
+    margin: 2em;
+    /* text-align: center;
+    margin: auto;
+    margin-top: 10em; */
+}
+.z{
+    display: inline-block;
+    width:7em;
+    height:7em;
+    background-color: antiquewhite;
+    margin: 2em;
+}
+.u{
+    display: inline-block;
+    width:7em;
+    height:7em;
+    background-color: antiquewhite;
+    margin: 2em;
+}
+
+

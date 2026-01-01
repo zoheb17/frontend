@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    gap: 20px;
+    text-align: justify;
+    
+}
+.one{
+    background-color: #F5F5F5;
+}
+.two{
+    background-color:#F5F5F5;
+}
+.three{
+    background-color: #F5F5F5;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* .zoheb{
+    
+    width:7rem;
+    height:7rem;
+    background-color: black;
+}
+.zohebb{
+    display: flex;
+    width:7rem;
+    height:7rem;
+    background-color: rgb(51, 209, 114);
+} */
